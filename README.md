@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Matúš Repáš</h1>
 <h3 align="center">A passionate developer & networking enthusiast from Slovakia 🇸🇰</h3>
 
 
